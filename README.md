@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Anderson C. Magalhães
+# 👋 Hello! I'm Anderson Magalhães
 
 Welcome to my GitHub profile.
 
