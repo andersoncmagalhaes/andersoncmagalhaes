@@ -2,9 +2,9 @@
 
 Welcome to my GitHub profile.
 
-I'm a **Senior SAP ABAP Developer** with 16 years of experience delivering clean, efficient, and scalable solutions for enterprise systems. My expertise spans from classical ABAP to modern approaches such as **CDS Views, RAP, Clean Core, and OData**.
+I'm a **Senior SAP ABAP Developer** with over 16 years of experience delivering clean, efficient, and scalable solutions for enterprise systems. My expertise spans classical ABAP development to modern practices such as **CDS Views**, **RAP**, **OData**, and **Clean Core**.
 
-Here, I share selected technical projects, best practices, and study initiatives — including my recent work exploring **web technologies** and **SaaS architecture**.
+This space is dedicated to sharing **study-driven technical examples**, **personal learning exercises**, and **clean architecture concepts** in SAP and web technologies.
 
 ---
 
@@ -14,24 +14,24 @@ Here, I share selected technical projects, best practices, and study initiatives
 - **Eclipse ADT**, **SAP GUI**, **abapGit**
 - **GitHub**, Git-based versioning
 - **Web Technologies** (JavaScript, HTML, CSS, React, TypeScript)
-- **Node.js**, **Express**, **MongoDB** (ongoing learning)
+- **Node.js**, **Express**, **MongoDB** *(ongoing learning)*
 
 ---
 
 ## 📂 Featured Repositories
 
 - [`abap-cds-demos`](https://github.com/andersoncmagalhaes/abap-cds-demos)  
-  Personal examples of Core Data Services (CDS) with clean architecture and best practices.
+  Personal examples of Core Data Services (CDS) using clean architecture and reusable patterns.
 
 ---
 
 ## 🎯 Focus Areas
 
 - Enterprise-grade SAP development
-- Clean and modular ABAP coding
-- Real-world patterns (RAP, Fiori, OData)
-- SaaS product design and architecture (in progress)
-- Expanding to full-stack development with modern tools
+- Modular and testable ABAP code
+- Clean and scalable software design
+- SaaS architecture design *(in progress)*
+- Continuous learning through personal projects
 
 ---
 
@@ -40,6 +40,13 @@ Here, I share selected technical projects, best practices, and study initiatives
 Feel free to connect:
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/andersonmagalhaesabapsr/)
+
+---
+
+## 🔒 Disclaimer
+
+All content in this GitHub profile is for **educational and personal development purposes only**.  
+No proprietary code, client-specific logic, or confidential information is included.
 
 ---
 
